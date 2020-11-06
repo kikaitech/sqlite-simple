@@ -50,7 +50,7 @@ Library
     blaze-textual,
     bytestring >= 0.9,
     containers,
-    direct-sqlite >= 2.3.13 && < 2.4,
+    direct-sqlite,
     semigroups >= 0.18 && < 0.20,
     template-haskell,
     text >= 0.11,
