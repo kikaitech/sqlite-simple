@@ -6,15 +6,15 @@
 packages:
 - completed:
     name: direct-sqlite
-    version: 2.3.26
+    version: 2.3.27
     git: https://github.com/kikaitech/direct-sqlite
     pantry-tree:
       size: 1141
-      sha256: 9d3a8b006cb26dd8a55b8025eab86471b511e92f5d53dd5980a5d40e9b1bda30
-    commit: 9faf394c70c5ca870b8749ce143736fd322507e4
+      sha256: 200db7ae99a6e45dc87da0a686f2d4dddbd9266163b3d5705afbadf48af0d6df
+    commit: 7052cdf70815830471cfa9889f516d8fe3194e41
   original:
     git: https://github.com/kikaitech/direct-sqlite
-    commit: 9faf394c70c5ca870b8749ce143736fd322507e4
+    commit: 7052cdf70815830471cfa9889f516d8fe3194e41
 snapshots:
 - completed:
     size: 532177

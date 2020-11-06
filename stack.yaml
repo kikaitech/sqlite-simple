@@ -2,4 +2,4 @@ resolver: lts-16.20
 
 extra-deps:
   - git: https://github.com/kikaitech/direct-sqlite
-    commit: 9faf394c70c5ca870b8749ce143736fd322507e4
+    commit: 7052cdf70815830471cfa9889f516d8fe3194e41
